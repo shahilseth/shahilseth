@@ -19,7 +19,7 @@
 I build AI systems that go beyond basic RAG — multi-agent pipelines with real eval suites, GraphRAG architectures for complex reasoning, and full-stack products that ship end-to-end. I care about whether these systems actually work, not just whether they demo well.
 </p>
 
-- 🔭 Currently building **[Arxis](https://github.com/shahilseth/arxis)** — a GraphRAG-based research intelligence system over arXiv data, with multi-hop citation reasoning that vector search structurally can't do
+- 🔭 Currently building **[PaperTrail](https://github.com/shahilseth/papertrail)** — a GraphRAG-based research intelligence system over arXiv data, with multi-hop citation reasoning that vector search structurally can't do
 - 🤖 Author of **[CodeSheriff](https://github.com/shahilseth/codesheriff)** — 4-agent codebase intelligence system (Navigator → Analyst → Critic → Synthesiser) with a full eval suite: 0.80 retrieval recall, 0.90 confidence calibration
 - 🧪 **[PaperTrail](https://github.com/shahilseth/papertrail)** — GraphRAG over academic literature using Neo4j + vector hybrid retrieval with a query planner that routes by question type
 - 💼 Currently sole developer at **Cogneta.io** — simultaneously covering dev, PM, QA, and DevOps
