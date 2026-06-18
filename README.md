@@ -25,7 +25,7 @@ I build AI systems that go beyond basic RAG — multi-agent pipelines with real 
 - 💼 Currently sole developer at **Cogneta.io** — simultaneously covering dev, PM, QA, and DevOps
 - 🎓 Final-year B.Tech CS @ **JIIT Noida** (2026)
 - 📫 Reach me at **shahilseth6@gmail.com**
-- 🔗 **[LinkedIn](https://linkedin.com/in/shahilseth)** · **[Portfolio](portfolio-xi-orcin-pdrhu56duz.vercel.app)**
+- 🔗 **[LinkedIn](https://linkedin.com/in/shahilseth)** · **[Portfolio](https://github.com/shahilseth/portfolio)**
 
 ---
 
